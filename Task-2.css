@@ -1,0 +1,13 @@
+.body-container {
+    background-image: url("/home/itla/banner-bg-8.png");
+    background-size: cover;
+}
+
+.navbar-brand img {
+    margin-right: 5px;
+}
+
+.nav-item a {
+    margin-right: 10px;
+    margin-left: 10px;
+}
